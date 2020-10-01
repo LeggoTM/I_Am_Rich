@@ -6,7 +6,7 @@ void main() => runApp(
           appBar: AppBar(
             centerTitle: true,
             title: Text("I Am Rich!"),
-            backgroundColor: Colors.grey[800],
+            backgroundColor: Colors.grey[700],
           ),
           body: Stack(
             children: <Widget>[
@@ -17,7 +17,7 @@ void main() => runApp(
                     radius: 1.0,
                     colors: [
                       Colors.white,
-                      Colors.blueGrey[800],
+                      Colors.blueGrey[700],
                     ],
                   ),
                 ),
